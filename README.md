@@ -10,6 +10,4 @@ npm install
 npm start
 ```
 
-It will start local server at `http://localhost:3000`.
-
-
+It will start local server at `http://localhost:3000`
